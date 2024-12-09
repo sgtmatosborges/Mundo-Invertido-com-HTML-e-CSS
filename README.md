@@ -34,5 +34,5 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 - [W3C - World Wide Web Consortium](http://w3c.org)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
+- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/)
 
